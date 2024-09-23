@@ -72,11 +72,12 @@ We validate the training and testing datasets using **Deepchecks** for:
 
 The accuracy, precision, recall, and F1-score for each model are compared:
 
-| Model             | Accuracy | Precision | Recall  | F1-Score |
-|-------------------|----------|-----------|---------|----------|
-| Logistic Regression | X%       | X%        | X%      | X%       |
-| Naive Bayes         | X%       | X%        | X%      | X%       |
-| Random Forest       | X%       | X%        | X%      | X%       |
+| **Model**              | **Accuracy** | **Precision** | **Recall** | **F1-score** |
+|------------------------|--------------|---------------|------------|--------------|
+| Logistic Regression     | 0.78         | 0.84          | 0.62       | 0.72         |
+| Naive Bayes             | 0.76         | 0.78          | 0.63       | 0.70         |
+| Random Forest           | 0.82         | 0.81          | 0.76       | 0.78         |
+
 
 ## Model Deployment with Streamlit
 
