@@ -5,15 +5,12 @@ This project focuses on predicting the survival of passengers aboard the Titanic
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data](#data)
-- [Getting Started](#getting-started)
 - [Libraries Used](#libraries-used)
 - [Project Workflow](#project-workflow)
 - [Deepchecks Validation](#deepchecks-validation)
 - [Model Comparison](#model-comparison)
 - [Model Deployment with Streamlit](#model-deployment-with-streamlit)
 - [Monitoring with Arize AI](#monitoring-with-arize-ai)
-- [How to Run](#how-to-run)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
