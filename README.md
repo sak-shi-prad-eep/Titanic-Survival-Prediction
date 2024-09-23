@@ -88,5 +88,4 @@ A simple web app is built using **Streamlit** to allow users to input passenger 
 Model performance and data are logged to **Arize AI** for continuous monitoring in production. The following metrics are tracked:
 - Classification metrics (Accuracy, Precision, Recall, F1-score)
 - Data integrity checks
-
-3. Log predictions and track model performance using Arize AI by setting up your API key and space key.
+- Log predictions and track model performance using Arize AI by setting up your API key and space key.
